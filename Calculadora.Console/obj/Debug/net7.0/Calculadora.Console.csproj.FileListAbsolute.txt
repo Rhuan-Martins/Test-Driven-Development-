@@ -1,0 +1,14 @@
+E:\Master_of_Code\Projetos_visual_code\TDD_e_Testes\Calculadora.Console\bin\Debug\net7.0\Calculadora.Console.exe
+E:\Master_of_Code\Projetos_visual_code\TDD_e_Testes\Calculadora.Console\bin\Debug\net7.0\Calculadora.Console.deps.json
+E:\Master_of_Code\Projetos_visual_code\TDD_e_Testes\Calculadora.Console\bin\Debug\net7.0\Calculadora.Console.runtimeconfig.json
+E:\Master_of_Code\Projetos_visual_code\TDD_e_Testes\Calculadora.Console\bin\Debug\net7.0\Calculadora.Console.dll
+E:\Master_of_Code\Projetos_visual_code\TDD_e_Testes\Calculadora.Console\bin\Debug\net7.0\Calculadora.Console.pdb
+E:\Master_of_Code\Projetos_visual_code\TDD_e_Testes\Calculadora.Console\obj\Debug\net7.0\Calculadora.Console.GeneratedMSBuildEditorConfig.editorconfig
+E:\Master_of_Code\Projetos_visual_code\TDD_e_Testes\Calculadora.Console\obj\Debug\net7.0\Calculadora.Console.AssemblyInfoInputs.cache
+E:\Master_of_Code\Projetos_visual_code\TDD_e_Testes\Calculadora.Console\obj\Debug\net7.0\Calculadora.Console.AssemblyInfo.cs
+E:\Master_of_Code\Projetos_visual_code\TDD_e_Testes\Calculadora.Console\obj\Debug\net7.0\Calculadora.Console.csproj.CoreCompileInputs.cache
+E:\Master_of_Code\Projetos_visual_code\TDD_e_Testes\Calculadora.Console\obj\Debug\net7.0\Calculadora.Console.dll
+E:\Master_of_Code\Projetos_visual_code\TDD_e_Testes\Calculadora.Console\obj\Debug\net7.0\refint\Calculadora.Console.dll
+E:\Master_of_Code\Projetos_visual_code\TDD_e_Testes\Calculadora.Console\obj\Debug\net7.0\Calculadora.Console.pdb
+E:\Master_of_Code\Projetos_visual_code\TDD_e_Testes\Calculadora.Console\obj\Debug\net7.0\Calculadora.Console.genruntimeconfig.cache
+E:\Master_of_Code\Projetos_visual_code\TDD_e_Testes\Calculadora.Console\obj\Debug\net7.0\ref\Calculadora.Console.dll
